@@ -1,0 +1,79 @@
+.btn1{
+    background-color: rgba(16, 68, 239, 0.772);
+    color:white;
+    width:8%;
+    height:30px;
+    border: whitesmoke;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    background-color: #d0f0f0;
+}
+.heading-1{
+    color:rgba(27, 17, 17, 0.874);
+    font-weight: 100;
+    font-size: 15px;
+}
+.heading-2{
+    color:rgb(23, 18, 67);
+    font-weight: 1;
+    font-size: 40px;
+}
+.heading-3{
+    color:rgba(16, 68, 239, 0.772);
+    font-weight: 50;
+    font-size: 20px;
+}
+.heading-4{
+    color:rgb(23, 18, 67);
+    font-weight: 100;
+    font-size: 15px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(20, 18, 18);
+    font-size: 1rem;
+    margin: 0 40px;
+}
+img{
+    height: 85vh;
+    margin-right: 0px;
+    width:90vh;
+    bottom: 0px;
+    
+}
+.nav-bar{
+    list-style: none;
+    font-weight: lighter;
+    display: flex;
+    gap: 1.5rem;
+}
+.section-1{
+    padding-top: 155px;
+    margin: 0 40px;
+    line-height: 0.3em;
+}
+.Portfolio{
+    color: rgba(16, 68, 239, 0.772);
+    font-weight: 600;
+    font-size: 28px;
+}
+.nav-bar{
+    font-weight:600;
+    align-items:center;
+}
+.icons{
+    padding-right:0px;
+    padding: 0;
+    color: rgba(16, 68, 239, 0.772);
+}
+.btn1:hover{
+    background-color: rgb(23, 18, 67);
+}
